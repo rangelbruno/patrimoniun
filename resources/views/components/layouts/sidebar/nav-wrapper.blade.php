@@ -17,13 +17,6 @@
 
     $links = [
         [ "path" => "/", "icon" => "chart-line", "label" => "Dashboard" ],
-        [ "path" => "/cadastro", "icon" => "folder-plus", "label" => "Cadastro de Bens" ],
-        [ "path" => "/movimentacao", "icon" => "arrow-right-arrow-left", "label" => "Movimentação de Bens" ],
-        [ "path" => "/baixa", "icon" => "arrow-trend-down", "label" => "Baixa de Bens" ],
-        [ "path" => "/relatorios", "icon" => "chart-column", "label" => "Relatórios" ],
-        [ "path" => "/admin", "icon" => "screwdriver-wrench", "label" => "Administração do Sistema" ],
-        [ "path" => "/ajuda", "icon" => "question", "label" => "Ajuda e Suporte" ],
-        [ "path" => "/novo", "icon" => "plus", "label" => "Adicionar Novo" ],
     ];
 @endphp
 
